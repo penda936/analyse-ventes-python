@@ -23,6 +23,7 @@ Ce projet permet :
 
 * Produit le plus rentable : Ordinateur
 * Ville la plus rentable : Toulouse
+* Mode de paiement le plus utilisé : Espèces
 
 ## Auteur
 
