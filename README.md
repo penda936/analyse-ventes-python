@@ -33,7 +33,7 @@ L'analyse comprend notamment deux graphiques en barres et un graphique circulair
 
 Les analyses et le code complet sont disponibles dans le notebook:
 
-analyse_ventes.ipynb
+Analyse des ventes.ipynb
 
 ## Structure du projet
 
