@@ -6,7 +6,7 @@ Projet d’analyse d'analyse exploratoire de données réalisé avec Python et P
 
 L'objectif est d'explorer les données commerciales, de calculer différents indicateurs et de visualiser les résultats afin de mieux comprendre les performances des ventes.
 
-##Analyses réalisées
+## Analyses réalisées
 * Calcul du chiffre d'affaires total
 * Identification des produits générant le plus de chiffre d'affaires
 * Analyse des performances par ville 
@@ -27,14 +27,14 @@ L'objectif est d'explorer les données commerciales, de calculer différents ind
 ** Ville la plus rentable :** Toulouse
 ** Mode de paiement le plus utilisé :** Espèces
 
-##Visualisations
+## Visualisations
 L'analyse comprend notamment deux graphiques en barres et un graphique circulaires permettant de représenter les résultats.
 
 Les analyses et le code complet sont disponibles dans le notebook:
 
 analyse_ventes.ipynb
 
-##Structure du projet
+## Structure du projet
 
 analyse-ventes-python/ 
 ├── data.csv 
