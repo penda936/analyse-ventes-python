@@ -37,10 +37,11 @@ analyse_ventes.ipynb
 
 ## Structure du projet
 
+```text
 analyse-ventes-python/ 
-├── data.csv 
-├── analyse_ventes.ipynb 
-└── README.md
+├── Analyse des ventes.ipynb
+├── README.md 
+└── new_file.csv
 
 
 ## Ce que ce projet m'a permis de pratiquer
