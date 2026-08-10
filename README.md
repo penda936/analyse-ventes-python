@@ -42,7 +42,7 @@ analyse-ventes-python/
 └── README.md
 
 
-Ce que ce projet m'a permis de pratiquer
+## Ce que ce projet m'a permis de pratiquer
 * Manipulation de données avec Pandas 
 * Exploration d'un fichier CSV
 * Calcul d'indicateurs commerciaux 
