@@ -42,7 +42,7 @@ analyse-ventes-python/
 ├── Analyse des ventes.ipynb
 ├── README.md 
 └── new_file.csv
-
+```
 
 ## Ce que ce projet m'a permis de pratiquer
 * Manipulation de données avec Pandas 
