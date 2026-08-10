@@ -23,9 +23,9 @@ L'objectif est d'explorer les données commerciales, de calculer différents ind
 
 ## Résultats principaux
 
-** Produit le plus rentable :** Ordinateur
-** Ville la plus rentable :** Toulouse
-** Mode de paiement le plus utilisé :** Espèces
+**Produit le plus rentable :** Ordinateur
+**Ville la plus rentable :** Toulouse
+**Mode de paiement le plus utilisé :** Espèces
 
 ## Visualisations
 L'analyse comprend notamment deux graphiques en barres et un graphique circulaires permettant de représenter les résultats.
